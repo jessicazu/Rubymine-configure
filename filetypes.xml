@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*Schemafile" type="Ruby" />
+      <mapping ext="schema" type="Ruby" />
+      <removed_mapping pattern=".schema" approved="true" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>

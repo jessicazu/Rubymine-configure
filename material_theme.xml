@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="tabsHeight" value="20" />
+    <option name="accentColor" value="ffd866" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="4d0bdfda:16e35075214:-8000" />
+    <option name="version" value="4.11.4" />
+  </component>
+</application>
