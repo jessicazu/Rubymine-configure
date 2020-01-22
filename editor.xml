@@ -12,4 +12,7 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
+  <component name="RubyEditorOptions">
+    <option name="prolongComments" value="false" />
+  </component>
 </application>
