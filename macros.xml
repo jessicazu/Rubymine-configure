@@ -11,5 +11,8 @@
       <typing text-keycode="0:1;66:0;82:0;0:1">&lt;br&gt;</typing>
       <action id="EditorEnter" />
     </macro>
+    <macro name="jquery_selector">
+      <typing text-keycode="0:1;0:1;0:1">$(&quot;</typing>
+    </macro>
   </component>
 </application>
