@@ -47,4 +47,5 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="TypeHierarchy" />
 </keymap>
