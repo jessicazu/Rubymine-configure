@@ -13,7 +13,7 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="500" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true">
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
   <component name="RubyEditorOptions">
