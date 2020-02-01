@@ -24,6 +24,7 @@
     <keyboard-shortcut first-keystroke="meta add" />
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="FindPrevious" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
