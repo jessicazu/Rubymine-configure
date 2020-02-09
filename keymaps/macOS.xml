@@ -15,6 +15,7 @@
   </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.SelectRow" />
+  <action id="Debug" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl s" />
