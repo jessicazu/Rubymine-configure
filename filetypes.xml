@@ -5,6 +5,7 @@
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping pattern="*Schemafile" type="Ruby" />
+      <mapping ext="schema" type="Ruby" />
       <mapping ext="config" type="YAML" />
       <removed_mapping pattern=".schema" approved="true" type="Ruby" />
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
