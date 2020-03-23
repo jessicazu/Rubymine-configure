@@ -6,7 +6,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="title_erb" value="&lt;% contenet_for(:html_title) { $TITLE$ } %&gt;" description="Title attribute value in erb file" toReformat="false" toShortenFQNames="true">
+  <template name="title_erb" value="&lt;% content_for(:html_title) { $TITLE$ } %&gt;" description="Title attribute value in erb file" toReformat="false" toShortenFQNames="true">
     <variable name="TITLE" expression="" defaultValue="t('views..title')" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
