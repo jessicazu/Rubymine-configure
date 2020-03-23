@@ -9,6 +9,7 @@
   <template name="title_erb" value="&lt;% contenet_for(:html_title) { $TITLE$ } %&gt;" description="Title attribute value in erb file" toReformat="false" toShortenFQNames="true">
     <variable name="TITLE" expression="" defaultValue="t('views..title')" alwaysStopAt="true" />
     <context>
+      <option name="HTML" value="true" />
       <option name="RHTML" value="true" />
     </context>
   </template>
