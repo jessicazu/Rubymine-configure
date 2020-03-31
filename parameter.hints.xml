@@ -4,6 +4,7 @@
     <option id="ruby.method.name.contains.parameter.name" value="false" />
     <option id="ruby.show.param.grouping" value="false" />
     <disabledLanguages>
+      <language id="JavaScript" />
       <language id="ruby" />
     </disabledLanguages>
   </component>
