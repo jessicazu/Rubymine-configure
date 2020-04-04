@@ -44,6 +44,9 @@
   <action id="EditorMoveUpAndScroll">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="EditorStartNewLine" />
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -65,6 +68,7 @@
   </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark6" />
+  <action id="GotoLine" />
   <action id="ImplementMethods" />
   <action id="Macro.br">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -109,6 +113,7 @@
   </action>
   <action id="TodoViewGroupByShowModules" />
   <action id="TypeHierarchy" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
