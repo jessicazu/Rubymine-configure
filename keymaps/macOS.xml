@@ -5,6 +5,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
+  <action id="ChangesView.GroupBy.Module" />
   <action id="CodeCompletion" />
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -32,25 +33,64 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="EditorStartNewLine" />
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="meta add" />
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FindPrevious" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="Generate.Missing.Members.ES6" />
+  <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="GotoBookmark0" />
   <action id="GotoBookmark6" />
+  <action id="ImplementMethods" />
   <action id="Macro.br">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="NextOccurence" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="OpenElementInNewWindow" />
+  <action id="OverrideMethods" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -67,5 +107,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="TodoViewGroupByShowModules" />
   <action id="TypeHierarchy" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
 </keymap>
