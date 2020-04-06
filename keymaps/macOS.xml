@@ -44,6 +44,12 @@
   <action id="EditorMoveUpAndScroll">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -68,6 +74,8 @@
   </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark6" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
   <action id="GotoLine" />
   <action id="ImplementMethods" />
   <action id="Macro.br">
