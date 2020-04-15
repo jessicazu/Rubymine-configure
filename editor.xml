@@ -23,4 +23,7 @@
   <component name="RubyEditorOptions">
     <option name="prolongComments" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
