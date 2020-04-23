@@ -851,6 +851,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.0.2/man" />
       </excluded>
     </library>
+    <library name="bundler (v2.1.2, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.1.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.1.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.1.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.1.2/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.1.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/bundler-2.1.2/man" />
+      </excluded>
+    </library>
     <library name="byebug (v11.0.1, rbenv: 2.5.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1531,11 +1550,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ffi-1.11.1/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ffi-1.11.1/samples" />
@@ -3590,12 +3611,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/lib" />
@@ -4768,14 +4791,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ruby-prof/1.2.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ruby-prof-1.2.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ruby-prof-1.2.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ruby-prof-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ruby-prof-1.2.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ruby-prof/1.2.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ruby-prof-1.2.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ruby-prof-1.2.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/ruby-prof-1.2.0/lib" />
@@ -4903,6 +4924,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/scout_apm/2.6.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/scout_apm-2.6.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/scout_apm-2.6.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/scout_apm-2.6.1/data" />
@@ -4910,6 +4932,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/scout_apm-2.6.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/scout_apm/2.6.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/scout_apm-2.6.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/scout_apm-2.6.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/scout_apm-2.6.1/data" />
