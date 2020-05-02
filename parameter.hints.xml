@@ -5,6 +5,7 @@
     <option id="ruby.show.param.grouping" value="false" />
     <disabledLanguages>
       <language id="JavaScript" />
+      <language id="Vue" />
       <language id="ruby" />
     </disabledLanguages>
   </component>
