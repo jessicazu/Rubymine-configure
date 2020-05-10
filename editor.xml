@@ -4,6 +4,7 @@
     <option name="JAVADOC_INFO_DELAY" value="800" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code Light" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="USE_LIGATURES" value="true" />
@@ -17,9 +18,7 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="700" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true">
-    <option name="elementHighlighting" value="true" />
-  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="700" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true" />
   <component name="RubyEditorOptions">
     <option name="prolongComments" value="false" />
   </component>
