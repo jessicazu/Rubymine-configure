@@ -10,6 +10,5 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="js.debugger.webconsole" value="false" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>

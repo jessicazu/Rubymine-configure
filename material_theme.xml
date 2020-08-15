@@ -1,10 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
-    <option name="accentColor" value="ff9800" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="tabsHeight" value="20" />
+    <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="MONOKAI" />
-    <option name="userId" value="2faddf59:173f19bf2f2:-8000" />
+    <option name="userId" value="4d0bdfda:16e35075214:-8000" />
     <option name="version" value="5.2.0" />
   </component>
 </application>
