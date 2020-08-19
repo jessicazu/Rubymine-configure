@@ -1,12 +1,5 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;名前なし&gt;">
-      <action id="EditorStartNewLine" />
-      <typing text-keycode="0:1;66:1">&lt;B</typing>
-      <action id="EditorBackSpace" />
-      <typing text-keycode="66:0;82:0;0:1">br&gt;</typing>
-      <action id="EditorEnter" />
-    </macro>
     <macro name="br">
       <typing text-keycode="0:1;66:0;82:0;0:1">&lt;br&gt;</typing>
       <action id="EditorEnter" />
